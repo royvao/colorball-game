@@ -1,7 +1,5 @@
 # **Hotel Game**
 
----
-
 ## Descripción
 
 **Hotel Game** es un juego desarrollado con **Python** y **Kivy**, pensado para ser ejecutado en **Android**. En este juego, puedes mover una bola por la pantalla utilizando botones de control y cambiar su color al chocar con los límites.
