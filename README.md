@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**Hotel Game** es un juego desarrollado con **Python** y **Kivy**, pensado para ser ejecutado en **Android**. En este juego, puedes mover una bola por la pantalla utilizando botones de control y cambiar su color al chocar con los límites.
+**Hotel Game** es un juego desarrollado con **Python** y **Kivy**. En este juego, puedes mover una bola por la pantalla utilizando botones de control y cambiar su color al chocar con los límites.
 
 ## Características
 
@@ -22,10 +22,6 @@
 
 - Kivy
 
-- Buildozer (para generar la APK en Android)
-
-- Java JDK (para compilar en Android)
-
 ### Instalación de dependencias
 
 Si estás en una máquina virtual con Kali Linux, asegúrate de tener todo instalado:
@@ -34,22 +30,7 @@ Si estás en una máquina virtual con Kali Linux, asegúrate de tener todo insta
 sudo apt update
 sudo apt install -y python3-pip git
 pip install --upgrade pip
-pip install kivy buildozer
 ```
-
-### Generar APK para Android
-
-Ejecuta el siguiente comando dentro del proyecto:
-
-```bash
-buildozer -v android debug
-```
-
-Esto generará un archivo APK en `bin/*.apk`.
-
-### Instalación en Android
-
-Para instalar la APK en un dispositivo Android, transfiere el archivo APK y ábrelo para instalarlo manualmente.
 
 ## Uso
 
