@@ -1,8 +1,8 @@
-# **Hotel Game**
+# **Color Ball Game**
 
 ## Descripción
 
-**Hotel Game** es un juego desarrollado con **Python** y **Kivy**. En este juego, puedes mover una bola por la pantalla utilizando botones de control y cambiar su color al chocar con los límites.
+**Color Ball Game** es un juego desarrollado con **Python** y **Kivy**. En este juego, puedes mover una bola por la pantalla utilizando botones de control y cambiar su color al chocar con los límites.
 
 ## Características
 
