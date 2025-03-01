@@ -49,7 +49,7 @@ Si quieres mejorar este proyecto:
 2. Clona el proyecto:
 
 ```bash
-git clone https://github.com/royvao/hotel-game.git
+git clone https://github.com/royvao/colorball-game.git
 ```
 
 3. Crea una rama para tu mejora:
